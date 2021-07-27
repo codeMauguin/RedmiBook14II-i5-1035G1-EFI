@@ -1,0 +1,1 @@
+# RedmiBook14II-i51035G1-EFI
