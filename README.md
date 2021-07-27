@@ -1,4 +1,4 @@
-# RedmiBook14II-i51035G1-EFI
+# RedmiBook14II-i5 1035G1-EFI
 > Big Sur 11.5(20G71) OpenCore 0.7.1 --但是HackIntool查看为0.6.5
 > 
 > 我已经从Ru.efi关闭CFG LOCK，修改了DVMT为96M--如果没有修改，在Config.plist中修改AppleXcpmCfgLock为True
