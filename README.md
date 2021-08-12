@@ -19,7 +19,6 @@
 
    - 麦克风不能正常工作
    - 隔空传送、接力不能使用
-   - 睡眠不是很正常（自己摸索吧）
    - 键盘中（ctrl，win，alt）乱了，可以自己调
    - 独显不能工作
 
@@ -30,6 +29,7 @@
    - 触摸板
    - 亮度显示（开机可能会暗一点）
    - USB内建
+   - 睡眠（如果不正常:1. 在终端中运行`PMSET -G`，若`sleep`:`0`;2. 在终端运行`sudo pmset -a sleep 1; sudo pmset -a hibernatemode 0; sudo pmset -a disablesleep 0;`3. 重启电脑；)
 
 3. 小毛病
 
