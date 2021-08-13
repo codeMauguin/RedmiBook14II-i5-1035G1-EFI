@@ -37,8 +37,8 @@
 
    - 分辨率保持原样不会有什么问题，开启HIDPI的话容易切屏花屏，移动窗口花屏现象
 
-     
-
+# 下载
+[0.71](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/tag/0.7.2%402.0)
 
 
 ## 此EFI是从黑果小兵的EFI仓库中Xiaomi Redmibook 16修改版	
