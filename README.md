@@ -41,4 +41,4 @@
 - [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/tag/0.7.2%402.0 "0.7.2")
 
 
-## 此EFI是从黑果小兵的EFI仓库中Xiaomi Redmibook 16修改版	
+## 此EFI是从Xiaomi Redmibook 16 EFI 原作者[Redmibook 16](https://github.com/Aa244750146/Redmibook-16-Hackintosh.git)修改版	
