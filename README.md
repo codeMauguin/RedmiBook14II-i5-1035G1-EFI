@@ -29,13 +29,13 @@
    - 触摸板
    - 亮度显示（开机可能会暗一点）
    - USB内建
-   - 睡眠（如果不正常:1. 在终端中运行`PMSET -G`，若`sleep`:`0`;2. 在终端运行`sudo pmset -a sleep 1; sudo pmset -a hibernatemode 0; sudo pmset -a disablesleep 0;`3. 重启电脑；)
+   - 睡眠（如果不正常:添加引导参数 `-noDC9`)
 
 3. 小毛病
-
    -  开机会花屏，一会就好(开机亮度稍暗，睡眠在唤醒就正常）
    -  如果遇到黑屏无法亮屏，请合上盖子等待睡眠后唤醒即可
-   - 分辨率保持原样不会有什么问题，开启HIDPI的话容易切屏花屏，移动窗口花屏现象（睡眠后 hidpi使用正常）
+   - 分辨率保持原样不会有什么问题
+   - 开启HIDPI,请开机就睡眠在唤醒即可正常使用（睡眠后 hidpi使用正常）
 
 # 下载
 - [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/tag/0.7.2%402.0 "0.7.2")
