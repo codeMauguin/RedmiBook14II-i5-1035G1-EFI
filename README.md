@@ -1,5 +1,5 @@
 # RedmiBook14II-i5 1035G1-EFI
-> Big Sur 11.5(20G71) OpenCore 0.7.2
+> Big Sur 11.5(20G95) OpenCore 0.7.2
 > 
 > 我已经从Ru.efi关闭CFG LOCK，修改了DVMT为160M--如果没有修改，在Config.plist中修改AppleXcpmCfgLock为True
 
@@ -38,7 +38,7 @@
 
 # 下载
 
-- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/tag/0.7.2%402.0 "0.7.2")
+- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.2%402.0/EFI.zip)
 
 
 ## 此EFI是从Xiaomi Redmibook 16 EFI 原作者[Redmibook 16](https://github.com/Aa244750146/Redmibook-16-Hackintosh.git)修改版	
