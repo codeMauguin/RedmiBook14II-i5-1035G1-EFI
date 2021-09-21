@@ -31,14 +31,14 @@
    - 睡眠（如果不正常:添加引导参数 `-noDC9`)
 
 3. 小毛病
-   -  开机会花屏，一会就好(开机亮度稍暗，睡眠在唤醒就正常）
-   -  如果遇到黑屏无法亮屏，请合上盖子等待睡眠后唤醒即可
-   - 分辨率保持原样不会有什么问题
-   - 开启HIDPI,请开机就睡眠在唤醒即可正常使用（睡眠后 hidpi使用正常）
+   -  ~~开机会花屏，一会就好(开机亮度稍暗，睡眠在唤醒就正常）~~（已解决）
+   - 分辨率保持原样不会有什么问题（已解决）
+   - 开启HIDPI,请开机就睡眠在唤醒即可正常使用（睡眠后 hidpi使用正常）（已解决）
 
 # 下载
 
-- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.2%402.0/EFI.zip)
+- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.3%403.0/EFI.zip)
 
 
 ## 此EFI是从Xiaomi Redmibook 16 EFI 原作者[Redmibook 16](https://github.com/Aa244750146/Redmibook-16-Hackintosh.git)修改版	
+## 感谢  @XingKong746。解决开机需要休眠才能正常使用HIDPI  链接：[RedmiBook16 14II EFI](https://github.com/XingKong746/RedmiBook16-Hackintosh)
