@@ -1,5 +1,5 @@
 # RedmiBook14II-i5 1035G1-EFI
-> Big Sur 11.5(20G95) OpenCore 0.7.2
+> Monterey 12.1 Beta版(21C5021h) OpenCore 0.7.5
 > 
 > 我已经从Ru.efi关闭CFG LOCK，修改了DVMT为160M--如果没有修改，在Config.plist中修改AppleXcpmCfgLock为True
 
@@ -35,14 +35,14 @@
    - 电量显示正常
    - 核显加速
 
-3. ~~小毛病~~
+~~3.小毛病~~
    -  ~~开机会花屏，一会就好(开机亮度稍暗，睡眠在唤醒就正常）~~
    - ~~分辨率保持原样不会有什么问题~~
    - ~~开启HIDPI,请开机就睡眠在唤醒即可正常使用（睡眠后 hidpi使用正常）~~
 
 # 下载
 
-- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.3%403.0/EFI.zip)
+- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.4-PRC/EFI.zip)
 
 # 致谢
 
