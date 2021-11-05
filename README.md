@@ -42,7 +42,8 @@
 
 # 下载
 
-- [EFI](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.4-PRC/EFI.zip)
+- [EFI-Monterey](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.4-PRC/EFI.zip)
+- [EFI-Big Sur](https://github.com/codeMauguin/RedmiBook14II-i5-1035G1-EFI/releases/download/0.7.4/EFI.zip)
 
 # 致谢
 
