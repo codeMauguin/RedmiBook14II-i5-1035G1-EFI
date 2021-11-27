@@ -48,5 +48,5 @@
 # 致谢
 
  1. 此EFI是从Xiaomi Redmibook 16 EFI 原作者[Redmibook 16](https://github.com/Aa244750146/Redmibook-16-Hackintosh.git)修改版	
- 2. @XingKong746。解决开机需要休眠才能正常使用HIDPI  链接：[RedmiBook16 14II EFI](https://github.com/XingKong746/RedmiBook16-Hackintosh)
+ 2. [@XingKong746](https://github.com/XingKong746)。解决开机需要休眠才能正常使用HIDPI  链接：[RedmiBook16 14II EFI](https://github.com/XingKong746/RedmiBook16-Hackintosh)
 
